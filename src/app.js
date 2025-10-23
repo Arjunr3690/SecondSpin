@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Features from './components/Features';
-import Sustainability from './components/Sustainability';
-import Testimonials from './components/Testimonials';
-import Footer from './components/Footer';
+import Header from './components/header';
+import Hero from './components/hero';
+import Features from './components/features';
+import Sustainability from './components/sustainability';
+import Testimonials from './components/testimonials';
+import Footer from './components/footer';
 
 function App() {
   return (
